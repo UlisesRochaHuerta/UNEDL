@@ -1,0 +1,10 @@
+git status	mostrar estado de repositorio
+git clone	clonar
+clear	limpiar consola
+pwd	visualizar ruta en posicion
+ls -la	visualizar permisos
+
+CLI	COMMAND LINE INTERFACE
+GUI	GRAPHICS USER INTERFACE
+NUI	NATURAL USER INTERFACE
+
