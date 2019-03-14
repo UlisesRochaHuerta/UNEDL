@@ -1,0 +1,7 @@
+C:\Users\Ulises\UNEDL\Console\RecorridodeMatriz\RecorridodeMatriz\obj\Debug\RecorridodeMatriz.csprojAssemblyReference.cache
+C:\Users\Ulises\UNEDL\Console\RecorridodeMatriz\RecorridodeMatriz\obj\Debug\RecorridodeMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Ulises\UNEDL\Console\RecorridodeMatriz\RecorridodeMatriz\bin\Debug\RecorridodeMatriz.exe.config
+C:\Users\Ulises\UNEDL\Console\RecorridodeMatriz\RecorridodeMatriz\bin\Debug\RecorridodeMatriz.exe
+C:\Users\Ulises\UNEDL\Console\RecorridodeMatriz\RecorridodeMatriz\bin\Debug\RecorridodeMatriz.pdb
+C:\Users\Ulises\UNEDL\Console\RecorridodeMatriz\RecorridodeMatriz\obj\Debug\RecorridodeMatriz.exe
+C:\Users\Ulises\UNEDL\Console\RecorridodeMatriz\RecorridodeMatriz\obj\Debug\RecorridodeMatriz.pdb
