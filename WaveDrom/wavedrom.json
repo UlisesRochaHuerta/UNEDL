@@ -1,0 +1,8 @@
+{signal: [
+  
+       {name: 'Set', wave: '0hl......hl',},
+       {name: 'Clear', wave: '0..hl.hl...', period:1},
+       {name: 'Q', wave: '0h.l.....h.', period:1},
+       {name: '-q', wave: 'hl.h.....l.', period:1}
+
+]}
